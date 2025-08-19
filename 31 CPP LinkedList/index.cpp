@@ -90,13 +90,13 @@ int  main(){
 
     list.insertAtspecificpos(60,3);
 
-      list.insertAtspecificpos(100,4);
+    list.insertAtspecificpos(100,4);
       
 
-      list.insertAtspecificpos(110,7);
+    list.insertAtspecificpos(110,7);
 
-      list.deleteatstart();
-        list.deleteatstart();
+    list.deleteatstart();
+    list.deleteatstart();
 
     list.displayNode();
 

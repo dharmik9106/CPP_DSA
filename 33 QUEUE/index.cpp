@@ -59,6 +59,7 @@ class Queue {
             return ;
 
          }
+         
 
          for (int i=front ; i<=rear ; i++){
             cout << arr[i] << " "<<  endl;
